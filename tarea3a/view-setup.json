@@ -1,0 +1,9 @@
+{
+    "filename" : "solution.npy",
+    "t_a" : 20, 
+    "t_b" : 16, 
+    "t_c" : 25, 
+    "n_a" : 5,
+    "n_b" : 3, 
+    "n_c" : 7
+    }
